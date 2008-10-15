@@ -2,7 +2,7 @@
 
 
 class GeoTags extends Plugin {
-	const VERSION= '0.5-0.2';
+	const VERSION= '0.2.1';
 
 	private $config= array();
 
